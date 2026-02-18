@@ -1,5 +1,5 @@
 {
-  "name": "@silentlovelace/hello",
+  "name": "@risatesole/packagehello",
   "version": "1.0.0",
   "description": "A package that just says hello user",
   "types": "dist/index.d.ts",
@@ -13,6 +13,9 @@
     "typescript",
     "module"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "author": "Henry Edilio Ramirez Chevalier",
   "license": "MIT",
   "devDependencies": {
