@@ -1,5 +1,5 @@
 {
-  "name": "@risatesole/packagehello",
+  "name": "@risatesole/firstnpmpackage",
   "version": "1.0.0",
   "description": "A package that just says hello user",
   "types": "dist/index.d.ts",
